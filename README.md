@@ -11,7 +11,7 @@ A general Adobe Illustrator template for vector assets *(logos, icons, etc.)*.
 ## 🎨 Specs
 
 - Effective asset size of **512x512** *(704x704)*
-- **Adobe Illustrator 2020** compatibility *(still one of the)*
+- **Adobe Illustrator 2020** compatibility *(still one of the most popular versions)*
 - With 4 visually helpful **padded guides**
 - **No Copyright** license [*(CC0 1.0 UNIVERSAL)*](https://creativecommons.org/publicdomain/zero/1.0)
 
