@@ -2,7 +2,13 @@
 
 A general Adobe Illustrator template for vector assets *(logos, icons, etc.)*.
 
-<p align="left">
+<p align="center">
+  <img src="media/screenshot.jpg" />
+</p>
+
+---
+
+<p align="center">
   <a href="https://raw.githubusercontent.com/richrdkng/vector-asset-ai-template/main/src/vector-asset-template.ai">
     <img src="https://img.shields.io/badge/download%20template-017524?style=for-the-badge" />
   </a>  
