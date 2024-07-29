@@ -53,7 +53,6 @@ asset templates, thus led me to open source and publish
     <tr>
       <th>File</th>
       <th>Details</th>
-      <th>Screenshot</th>
       <th>Download</th>
     </tr>
   </thead>
@@ -61,45 +60,45 @@ asset templates, thus led me to open source and publish
     <!-- general -->
     <tr>
       <td>
-        <a href="https://github.com/richrdkng/adobe-illustrator-templates/blob/main/src/general.ai">src/general.ai</a>
+        <a href="https://github.com/richrdkng/adobe-illustrator-templates/blob/main/src/general.ai">./src/general.ai</a>
       </td>
       <td>         
         <ul>
           <li>for <b>general vector assets</b> <i>(icons, logos, etc.)</i></li>
           <li><b>512x512</b> effective padded size <i>(704x704 overall artboard size)</i></li>          
         </ul>
-      </td>
-      <td>
-        <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/general-screenshot.jpg">
+        <p align="center">
+          <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/general-screenshot.jpg">
           <img alt="file size" src="https://img.shields.io/badge/screenshot-screenshot-29AB87?style=for-the-badge&label=view&logo=searxng&logoColor=white" />
-        </a>
+        </a>        
+        </p>        
       </td>
       <td>
         <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/src/general.ai">
           <img alt="file size" src="https://img.shields.io/github/size/richrdkng/adobe-illustrator-templates/src%2Fgeneral.ai?style=for-the-badge&color=29AB87&logo=dpd&logoColor=white&label=Download" />
-        </a>         
+        </a>        
       </td>
     </tr>    
     <!-- gh-banner -->
     <tr>
       <td>
-        <a href="https://github.com/richrdkng/adobe-illustrator-templates/blob/main/src/gh-banner.ai">src/gh-banner.ai</a>
+        <a href="https://github.com/richrdkng/adobe-illustrator-templates/blob/main/src/gh-banner.ai">./src/gh-banner.ai</a>
       </td>
       <td>         
         <ul>
           <li>for GitHub <b>main banner in markdowns</b></li>
           <li><b>552x172</b> effective padded size <i>(800x320 overall artboard size)</i></li>          
         </ul>
-      </td>
-      <td>
-        <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/gh-banner-screenshot.jpg">
-          <img alt="file size" src="https://img.shields.io/badge/screenshot-screenshot-29AB87?style=for-the-badge&label=view&logo=searxng&logoColor=white" />
-        </a>
+        <p align="center">
+          <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/gh-banner-screenshot.jpg">
+            <img alt="file size" src="https://img.shields.io/badge/screenshot-screenshot-29AB87?style=for-the-badge&label=view&logo=searxng&logoColor=white" />
+          </a>
+        </p>
       </td>
       <td>
         <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/src/gh-banner.ai">
           <img alt="file size" src="https://img.shields.io/github/size/richrdkng/adobe-illustrator-templates/src%2Fgh-banner.ai?style=for-the-badge&color=29AB87&logo=dpd&logoColor=white&label=Download" />
-        </a>         
+        </a>        
       </td>
     </tr>
   </tbody>
