@@ -20,12 +20,12 @@
 ---
 
 <h3 align="center">
-  Practical AI asset templates.
+  Practical Illustrator asset templates.
 </h3>
 
 <p align="center">
   Various useful <b>Adobe Illustrator templates</b> for <br/>
-  <b><i>logos, icons, banners,</i></b> and <b><i>vector assets</i></b>.
+  <b><i>logos, icons, banners,</i></b> and <b><i>general vector assets</i></b>.
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 - **Adobe Illustrator 2020** compatibility
 - Practical, visually helpful **padded guides**
-- **Public Domain / No Copyright / No Rights Reserved** license [*(CC0 1.0 Universal)*](https://creativecommons.org/publicdomain/zero/1.0)
+- **Public Domain / No Copyright / No Rights Reserved** license [*(CC0-1.0 Universal)*](https://creativecommons.org/publicdomain/zero/1.0)
 
 
 ## 💡 Idea / Origin
