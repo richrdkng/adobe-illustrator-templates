@@ -1,5 +1,8 @@
-<p align="center">
-  <img src="media/banner.svg" alt="banner" />
+<!-- Banner -->
+<p align="center">  
+  <picture>
+    <img alt="stylized AI templates banner" src="media/banner.svg" width="800" />
+  </picture>  
 </p>
 
 <br />
