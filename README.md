@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="media/banner.svg" />
+</p>
+
 # Vector Asset Adobe Illustrator Template
 
 A general Adobe Illustrator template for vector assets *(logos, icons, etc.)*.
