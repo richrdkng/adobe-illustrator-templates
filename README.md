@@ -65,13 +65,11 @@ asset templates, thus led me to open source and publish
       <td>         
         <ul>
           <li>for <b>general vector assets</b> <i>(icons, logos, etc.)</i></li>
-          <li><b>512x512</b> effective padded size <i>(704x704 overall artboard size)</i></li>          
-        </ul>
-        <p align="center">
-          <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/general-screenshot.jpg">
-          <img alt="file size" src="https://img.shields.io/badge/screenshot-screenshot-29AB87?style=for-the-badge&label=view&logo=searxng&logoColor=white" />
-        </a>        
-        </p>        
+          <li><b>512x512</b> effective padded size <i>(704x704 overall artboard size)</i></li>
+          <li>
+            <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/general-screenshot.jpg">Screenshot of general.ai</a>        
+          </li>          
+        </ul>        
       </td>
       <td>
         <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/src/general.ai">
@@ -88,12 +86,10 @@ asset templates, thus led me to open source and publish
         <ul>
           <li>for GitHub <b>main banner in markdowns</b></li>
           <li><b>552x172</b> effective padded size <i>(800x320 overall artboard size)</i></li>          
+          <li>
+            <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/gh-banner-screenshot.jpg">Screenshot of gh-banner.ai</a>
+          </li>          
         </ul>
-        <p align="center">
-          <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/gh-banner-screenshot.jpg">
-            <img alt="file size" src="https://img.shields.io/badge/screenshot-screenshot-29AB87?style=for-the-badge&label=view&logo=searxng&logoColor=white" />
-          </a>
-        </p>
       </td>
       <td>
         <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/src/gh-banner.ai">
