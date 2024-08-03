@@ -20,11 +20,11 @@
 ---
 
 <h3 align="center">
-  Practical Illustrator asset templates.
+  Useful Adobe Illustrator asset templates.
 </h3>
 
 <p align="center">
-  Various useful <b>Adobe Illustrator templates</b> for <br/>
+  Various practical and handy <b>Adobe Illustrator templates</b> for <br/>
   <b><i>logos, icons, banners,</i></b> and <b><i>general vector assets</i></b>.
 </p>
 
