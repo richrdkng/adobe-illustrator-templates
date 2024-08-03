@@ -36,17 +36,82 @@
 - Practical, visually helpful **padded guides**
 - **Public Domain / No Copyright / No Rights Reserved** license [*(CC0-1.0 Universal)*](https://creativecommons.org/publicdomain/zero/1.0)
 
-
-## 💡 Idea / Origin
+## 📁 Templates
 
 Over the years, ***I have often had to create various Adobe Illustrator 
 templates***, from simple personal projects to large-scale cross-team 
 collaborations. As I frequently ***found myself creating the same or very 
 similar templates repeatedly***, I eventually formulated basic, practical 
-asset templates, thus led me to open source and publish 
+asset templates. This led me to open source and publish 
 ***these basic boilerplate templates*** for creating vector assets.
 
-## 📁 Templates
+---
+
+### 🎨 General Template
+
+This template is **recommended for general vector assets** 
+*(icons, logos, square/rectangular assets, etc.)*.
+
+- size: **512x512** effective padded size *(704x704 overall artboard size)*
+- file: [./templates/general.ai](https://github.com/richrdkng/adobe-illustrator-templates/blob/main/templates/general.ai)
+- screenshot: [./media/screenshot-general.jpg](https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/screenshot-general.jpg)
+
+<a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/templates/general.ai">
+  <img alt="file size" src="https://img.shields.io/github/size/richrdkng/adobe-illustrator-templates/templates%2Fgeneral.ai?style=for-the-badge&color=29AB87&logo=dpd&logoColor=white&label=Download%20Template" />
+</a> 
+
+</br>
+</br>
+</br>
+
+### 📁 GitHub-specific Templates
+
+These templates are **recommended for creating GitHub-specific vector assets** 
+*(profile pictures, assets in markdown documents, etc.)*.
+
+---
+
+### 🎨 GitHub Profile Picture
+
+This template is ***recommended for creating GitHub profile pictures assets***
+for personal and organization accounts.
+
+This template has **2 guides** *(outer, and inner)*, and it is
+***designed to offer 3 choices to the creator whether to fill out*** the 
+profile picture frames on GitHub ***fully or partially***:
+
+- size **512x512** - overall artboard size:
+  - ***fills out the profile picture frame completely***
+  - recommended for assets designed to fill/reach the entirety
+    of the profile picture frame
+
+- size ***450x450*** - using the outer guides:
+  - will leave a ***tiny, barely visible padding*** in the profile picture frame
+  - recommended for assets designed to stretch almost to the entirety
+    of the profile picture frame, but still have a really small,
+    yet distinguishing padding around the asset
+
+- size ***400x400*** - using the inner guides:
+  - will leave a ***small, yet visible padding*** in the profile picture frame
+  - ***recommended in general for assets*** intended to be used as a 
+    profile picture, as this will result a small, yet visually pleasing
+    padding around the asset
+
+---
+
+- size: **512x512** overall artboard size *(with 2 guides: outer of 450x450, inner of 400x400)*
+- file: [./templates/gh-profile-picture.ai](https://github.com/richrdkng/adobe-illustrator-templates/blob/main/templates/gh-profile-picture.ai)
+- screenshot: [./media/screenshot-gh-profile-picture.jpg](https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/screenshot-gh-profile-picture.jpg)
+
+<a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/templates/gh-profile-picture.ai">
+  <img alt="file size" src="https://img.shields.io/github/size/richrdkng/adobe-illustrator-templates/templates%2Fgh-profile-picture.ai?style=for-the-badge&color=29AB87&logo=dpd&logoColor=white&label=Download%20Template" />
+</a> 
+
+</br>
+</br>
+</br>
+
+#### GitHub Markdown Banner
 
 <table>
   <thead>
@@ -60,40 +125,40 @@ asset templates, thus led me to open source and publish
     <!-- general -->
     <tr>
       <td>
-        <a href="https://github.com/richrdkng/adobe-illustrator-templates/blob/main/src/general.ai">./src/general.ai</a>
+        <a href="https://github.com/richrdkng/adobe-illustrator-templates/blob/main/templates/general.ai">general.ai</a>
       </td>
       <td>         
         <ul>
           <li>for <b>general vector assets</b> <i>(icons, logos, etc.)</i></li>
           <li><b>512x512</b> effective padded size <i>(704x704 overall artboard size)</i></li>
           <li>
-            <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/general-screenshot.jpg">Screenshot of general.ai</a>        
+            <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/screenshot-general.jpg">Screenshot of general.ai</a>        
           </li>          
         </ul>        
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/src/general.ai">
-          <img alt="file size" src="https://img.shields.io/github/size/richrdkng/adobe-illustrator-templates/src%2Fgeneral.ai?style=for-the-badge&color=29AB87&logo=dpd&logoColor=white&label=Download" />
+        <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/templates/general.ai">
+          <img alt="file size" src="https://img.shields.io/github/size/richrdkng/adobe-illustrator-templates/templates%2Fgeneral.ai?style=for-the-badge&color=29AB87&logo=dpd&logoColor=white&label=Download" />
         </a>        
       </td>
     </tr>    
     <!-- gh-banner -->
     <tr>
       <td>
-        <a href="https://github.com/richrdkng/adobe-illustrator-templates/blob/main/src/gh-banner.ai">./src/gh-banner.ai</a>
+        <a href="https://github.com/richrdkng/adobe-illustrator-templates/blob/main/templates/gh-banner.ai">gh-banner.ai</a>
       </td>
       <td>         
         <ul>
           <li>for GitHub <b>main banner in markdowns</b></li>
           <li><b>552x172</b> effective padded size <i>(800x320 overall artboard size)</i></li>          
           <li>
-            <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/gh-banner-screenshot.jpg">Screenshot of gh-banner.ai</a>
+            <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/screenshot-gh-banner.jpg">Screenshot of gh-banner.ai</a>
           </li>          
         </ul>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/src/gh-banner.ai">
-          <img alt="file size" src="https://img.shields.io/github/size/richrdkng/adobe-illustrator-templates/src%2Fgh-banner.ai?style=for-the-badge&color=29AB87&logo=dpd&logoColor=white&label=Download" />
+        <a href="https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/templates/gh-banner.ai">
+          <img alt="file size" src="https://img.shields.io/github/size/richrdkng/adobe-illustrator-templates/templates%2Fgh-banner.ai?style=for-the-badge&color=29AB87&logo=dpd&logoColor=white&label=Download" />
         </a>        
       </td>
     </tr>
