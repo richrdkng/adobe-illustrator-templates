@@ -39,11 +39,13 @@
 
 ## 📁 Templates
 
-Over the years, ***I have often had to create various Adobe Illustrator 
+Over the years, ***I've often had to create various Adobe Illustrator 
 templates***, from simple personal projects to large-scale cross-team 
-collaborations. As I frequently ***found myself creating the same or very 
-similar templates repeatedly***, I eventually formulated basic, practical 
-asset templates. This led me to open source and publish 
+collaborations.
+
+As I frequently ***found myself creating the same or very 
+similar templates time and time again repeatedly***, I eventually formulated 
+basic, yet practical asset templates. This led me to open source and publish 
 ***these basic boilerplate templates*** for creating vector assets.
 
 ---
