@@ -89,14 +89,14 @@ profile picture frames on GitHub ***fully or partially***:
 
 - size ***450x450*** - using the outer guides:
   - will leave a ***tiny, barely visible padding*** in the profile picture frame
-  - recommended for assets designed to stretch almost to the entirety
-    of the profile picture frame, but still have a really small,
-    yet distinguishing padding around the asset
+  - ***recommended in general for assets*** intended to be used as a 
+    profile picture, as this will have a really small,
+    yet visually pleasing, distinguishing padding around the asset
 
 - size ***400x400*** - using the inner guides:
   - will leave a ***small, yet visible padding*** in the profile picture frame
-  - ***recommended in general for assets*** intended to be used as a 
-    profile picture, as this will result a small, yet visually pleasing
+  - recommended for assets ***in case the 450x450 outer guide doesn't suite the
+    creator's intentions***, as this will result a small margin-like visible
     padding around the asset
 
 ---
