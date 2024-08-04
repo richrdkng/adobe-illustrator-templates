@@ -124,7 +124,30 @@ This template is ***recommended for creating banner assets in GitHub-flavored ma
 The top banner in markdowns is typically an image *(or multiple)* ***representing
 the project as a leading graphical asset***.
 
-- size: **552x172** effective padded size *(800x320 overall artboard size)*
+This template has **2 guides** *(outer, and inner)*:
+
+- size **800x320** - overall artboard size:
+  - ***it's not recommended to use the entire artboard for markdown banners
+    in most use-cases***, since this will fill the entire possible width of the
+    rendered markdowns on GitHub, and it will *"look bad"* in most cases, 
+    ***except if it is intended (e.g.: minor outreaching graphics, shapes, lines, etc.)***
+
+- size ***580x180*** - using the outer guides:
+  - ***recommended in general for markdown banners*** to be used, as this will
+    result a *"good-looking"* padding all-over the banner graphic with a 
+    visually pleasing appearance as using this outer guide
+    ***generally fits well in GitHub's rendered markdown content***
+  - looks presentable and readable ***on mobile devices too***
+
+- size ***550x170*** - using the inner guides:  
+  - recommended for assets ***in case the 580x180 outer guide doesn't fully
+    suite the creator's intentions***, as this is *not significantly much* 
+    smaller, than using the 580x180 outer guide, but still offers guidance
+    for tighter markdown banner designs
+
+---
+
+- size: **800x320** overall artboard size *(with 2 guides: outer of 580x180, inner of 550x170)*
 - file: [./templates/gh-markdown-banner.ai](https://github.com/richrdkng/adobe-illustrator-templates/blob/main/templates/gh-markdown-banner.ai)
 - screenshot: [./media/screenshots/gh-markdown-banner.jpg](https://raw.githubusercontent.com/richrdkng/adobe-illustrator-templates/main/media/screenshots/gh-markdown-banner.jpg)
 
