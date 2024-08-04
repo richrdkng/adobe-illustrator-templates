@@ -24,16 +24,17 @@
 </h3>
 
 <p align="center">
-  Various practical and handy <b>Adobe Illustrator templates</b> for <br/>
-  <b><i>logos, icons, banners,</i></b> and <b><i>general vector assets</i></b>.
+  Various practical, handy, and opinionated <b>Adobe Illustrator templates</b><br/>
+  for <b><i>logos, icons, banners,</i></b> and <b><i>general vector assets</i></b>.
 </p>
 
 ---
 
 ## ✔️ General Specs
 
+- Sensible *(and opinionated)* templates with visually helpful **padded guides**
+- Practical **usage recommendations** based on **100+ real-world projects**
 - **Adobe Illustrator 2020** compatibility
-- Practical, visually helpful **padded guides**
 - **Public Domain / No Copyright / No Rights Reserved** license [*(CC0-1.0 Universal)*](https://creativecommons.org/publicdomain/zero/1.0)
 
 ## 📁 Templates
